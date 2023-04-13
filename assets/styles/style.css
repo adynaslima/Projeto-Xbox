@@ -1,0 +1,14 @@
+@import url("header.css");
+
+:root {
+    --cor-de-fundo: #09090B;
+    --cor-cinza: #676767;
+    --cor-branca: #FFFFFF;
+    --cor-preto-fosco: #0C0C0C;
+    --cor-verde-limao: #9BF00B; 
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: 'Inter', sans-serif;
+}
