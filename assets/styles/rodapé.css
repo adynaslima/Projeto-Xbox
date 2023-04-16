@@ -1,0 +1,9 @@
+.section__rodape {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--cor-cinza);
+    padding: 24px;
+    font-size: 12px;
+}
