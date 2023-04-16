@@ -1,4 +1,9 @@
 @import url("header.css");
+@import url("xbox.css");
+@import url("desempenho.css");
+@import url("posters.css");
+@import url("faqaccordion.css");
+@import url("rodapé.css");
 
 :root {
     --cor-de-fundo: #09090B;
@@ -6,6 +11,7 @@
     --cor-branca: #FFFFFF;
     --cor-preto-fosco: #0C0C0C;
     --cor-verde-limao: #9BF00B; 
+    --cor-cinza-claro: #C0C0C0;
 }
 
 body {
