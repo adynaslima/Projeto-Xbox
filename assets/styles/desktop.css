@@ -1,0 +1,120 @@
+@media screen and (min-width: 1440px) {
+    /*Cabeçalho*/
+    .cabecalho {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .cabecalho__logo {
+        width: 144px;
+        height: 44px;
+    }
+
+    .cabecalho__nav {
+        width: 50%;
+    }
+
+    .cabecalho__nav-item {
+        border: none;
+        background-color: transparent;
+        font-size: 18px;
+    } 
+
+    .cabecalho__button {
+        width: 244px;
+    }
+
+    /*Xbox*/ 
+    .section__xbox {
+        margin-top: 190px;
+    }
+
+    .section__xbox-titulo {
+        font-size: 72px;
+    }
+
+    .section__xbox-paragrafo {
+        font-size: 24px;
+        margin-top: 48px;
+    }
+
+    .section__xbox-img {
+        width: 1235px;
+        height: 597px;
+    }
+
+    /*Desempenho*/ 
+    .section__desempenho {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        text-align: left;
+        margin-top: 300px;
+    }
+
+    .section__desempenho-titulo, .section__desempenho-titulo-branco {
+        font-size: 64px;
+    }
+
+    .section__desempenho-paragrafo {
+        font-size: 24px;
+        line-height: 40px;
+        width: 570px;
+    }
+
+    .section__desempenho-img {
+        width: 500px;
+    }
+
+    /*Posters*/
+    .section__posters {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 300px;
+    }
+
+    .section__posters img {
+        height: 500px;
+    }
+
+    /*Faq*/
+    .section__faq {
+        min-height: 30vh;
+        margin-top: 300px;
+    }
+
+    .section__faq-titulo {
+        font-size: 48px;
+    }
+
+    .section__faq-accordion {
+        max-width: 1000px;
+    }
+
+    .section__faq-pergunta {
+        width: 1000px;
+    }
+
+    .section__faq-pergunta-titulo {
+        font-size: 24px;
+        width: 800px;
+    }
+
+    .section__faq-resposta {
+        font-size: 20px;
+        width: 800px;
+    }
+
+    /*Rodapé*/
+    .section__rodape {
+        margin: 190px 150px 0 150px;
+        font-size: 18px;
+    }
+
+    .section__rodape img {
+        width: 140px;
+        height: 44px;
+    }
+}
