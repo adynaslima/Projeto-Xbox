@@ -4,6 +4,7 @@
 @import url("posters.css");
 @import url("faqaccordion.css");
 @import url("rodapé.css");
+@import url("desktop.css");
 
 :root {
     --cor-de-fundo: #09090B;
